@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @veena-k-vinayan
+- 👋 Hi, I’m Veena
 - 👀 I’m interested in working with Data.
 - 🌱 I’m currently learning Github, Python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 [How to reach me ...](https://www.linkedin.com/in/veenakvinayan/)
 
 <!---
 veena-k-vinayan/veena-k-vinayan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
