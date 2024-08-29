@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Veena
 - 👀 I’m interested in working with Data.
-- 🌱 I’m currently learning Github, Python
+- 🌱 I’m currently learning Github, Python, Dagster
 - 📫 [How to reach me ...](https://www.linkedin.com/in/veenakvinayan/)
 
 <!---
